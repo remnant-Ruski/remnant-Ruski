@@ -4,10 +4,10 @@
 
 <summary>A summery of whom/what I am.</summary>
   
-***this is made for my unending suffering of my alter-ego which formed when i left the National Socialist movment in 2023, his/my name is Ruski.
-I do not know if i can call him an alter-ego as he acts as a seperate entity in my head and seperate from myself, I might just be schizophrenic and the
+***this is made for my unending suffering of my alter-ego which formed when I left the National Socialist movment in 2023, his/my name is Ruski.
+I do not know if I can call him an alter-ego as he acts as a seperate entity in my head and seperate from myself, I might just be schizophrenic and the
 voice(s) in my head are just acting as him or I am suffering from onset split personality disorder. I do not know, I am not sure, neither do I care
-anymore. I am just using this as a way to diary, and tho i may not know how to work github, I will figure it out and make entries when I do***
+anymore. I am just using this as a way to diary, and tho I may not know how to work github, I will figure it out and make entries when I do***
 
 </details>
 
